@@ -1,5 +1,4 @@
-
-  function buildTable(data) {
+function buildTable(data) {
     tbody.html("");
   }
 
