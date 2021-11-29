@@ -8,7 +8,8 @@ date, city, state, country and/or shape.
  
 ### **Results**: 
 
-* **Instructions:Filtering Data**
+* **Instructions-Filtering Data**
+
 There are five categories the user can enter into in order to filter the table of UFO sightings. 
 You may choose to enter any one or all five fields in order to drill into the information of interest:
  
@@ -32,7 +33,8 @@ You may choose to enter any one or all five fields in order to drill into the in
 	Format lowercase 
        (example: triangle)
 
-* **Sample:Filtering Data**
+* **Sample-Filtering Data**
+
 Sample below includes a user that entered 3 of 5 fields:
 
 **Before**
