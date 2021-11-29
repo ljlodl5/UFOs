@@ -14,7 +14,7 @@ There are five categories the user can enter into in order to filter the table o
 The user may choose to enter any one or all five fields in order to drill into the information of interest:
  
 1) Enter a Date: 
-	Format d/m/yyyy 
+	Format m/d/yyyy 
        (example 1/1/2010)
 
 2) Enter a City:
