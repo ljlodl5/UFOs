@@ -3,7 +3,7 @@
 
 ## **Overview**
 The goal is to consume a data file of UFO sightings and use JavaScript and HTML to build a user interface. 
-The resulting webpage provides general information about UFO sightings and then via table selection enables the user to access the UFO sighting data based on one or more of the following parameters: 
+The resulting web page provides general information about UFO sightings, and then via table selection enables the user to access the UFO sighting data based on one or more of the following parameters: 
 date, city, state, country and/or shape. 
  
 ### **Results**: 
@@ -11,7 +11,7 @@ date, city, state, country and/or shape.
 * **Instructions-Filtering Data**
 
 There are five categories the user can enter into in order to filter the table of UFO sightings. 
-You may choose to enter any one or all five fields in order to drill into the information of interest:
+The user may choose to enter any one or all five fields in order to drill into the information of interest:
  
 1) Enter a Date. 
 	Format d/m/yyyy 
