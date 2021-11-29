@@ -13,23 +13,23 @@ date, city, state, country and/or shape.
 There are five categories the user can enter into in order to filter the table of UFO sightings. 
 The user may choose to enter any one or all five fields in order to drill into the information of interest:
  
-1) Enter a Date. 
+1) Enter a Date: 
 	Format d/m/yyyy 
        (example 1/1/2010)
 
-2) Enter a City
+2) Enter a City:
 	Format lowercase 
        (example el cajon)
 
-3) Enter a State
+3) Enter a State:
 	Format lowercase, 2 character 
        (examples: az)
 
-4) Enter a Country
+4) Enter a Country:
 	Format lowercase, 2 character 
        (example: us)
 
-5) Enter a Shape
+5) Enter a Shape:
 	Format lowercase 
        (example: triangle)
 
