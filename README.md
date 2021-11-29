@@ -54,7 +54,7 @@ Plus, while the 'on change' update appears like a nice feature (it does not requ
 A button has the same impact and may be less confusing to the user. 
 
 * **Improvements**
-1) The site in not aesthetically pleasing. With some CSS improvements such as additional color and backdrop, and pictures can make the site something a user may want to return to.
+1) The site in not aesthetically pleasing. With some pictures, and CSS improvements such as additional color and formatting, can make the site something a user may want to return to.
 2) One improvement I added to the webpage was to create a 'refresh' button so the user did not need to go back to the browser to refresh the selections (see snapshot)
 
 ![Exhibit C](https://github.com/ljlodl5/UFOs/blob/main/Refresh%20Page.png)
