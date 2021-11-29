@@ -32,7 +32,7 @@ You may choose to enter any one or all five fields in order to drill into the in
 	Format lowercase 
        (example: triangle)
 
-* **Sample:Filtering Data **
+* **Sample:Filtering Data**
 Sample below includes a user that entered 3 of 5 fields:
 
 **Before**
@@ -44,13 +44,13 @@ Sample below includes a user that entered 3 of 5 fields:
 
 ### **Summary**
 
-* **Drawbacks **
+* **Drawbacks**
 One major drawback of the website is that it does not contain grouped dropdowns for the user to select based on available table data. 
 Entering text and hoping the return provides something other than a blank table is poor design.
 Plus, while the 'on change' update appears like a nice feature (it does not require the user to select a button) it still requires the user to make a change on the page before the table is adjusted to the selection(s).
 A button has the same impact and may be less confusing to the user. 
 
-* **Improvements **
+* **Improvements**
 1) The site in not aesthetically pleasing. With some CSS improvements such as additional color and backdrop, and pictures can make the site something a user may want to return to.
 2) One improvement I added to the webpage was to create a 'refresh' button so the user did not need to go back to the browser to refresh the selections (see snapshot)
 
