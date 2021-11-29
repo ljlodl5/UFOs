@@ -8,7 +8,7 @@ date, city, state, country and/or shape.
  
 ### **Results**: 
 
-* **Instructions:Filtering Data **
+* **Instructions:Filtering Data**
 There are five categories the user can enter into in order to filter the table of UFO sightings. 
 You may choose to enter any one or all five fields in order to drill into the information of interest:
  
@@ -45,6 +45,7 @@ Sample below includes a user that entered 3 of 5 fields:
 ### **Summary**
 
 * **Drawbacks**
+
 One major drawback of the website is that it does not contain grouped dropdowns for the user to select based on available table data. 
 Entering text and hoping the return provides something other than a blank table is poor design.
 Plus, while the 'on change' update appears like a nice feature (it does not require the user to select a button) it still requires the user to make a change on the page before the table is adjusted to the selection(s).
